@@ -1,0 +1,8 @@
+{
+  "plugin.xinnet-dns.name": "Xinnet.com",
+  "plugin.xinnet-dns.description": "ACME DNS-01 via Xinnet.com.",
+  "plugin.xinnet-dns.access.agentId.label": "Xinnet.com agent ID",
+  "plugin.xinnet-dns.access.agentId.placeholder": "Please enter Xinnet.com agent ID",
+  "plugin.xinnet-dns.access.apiPassword.label": "Xinnet.com agent API password",
+  "plugin.xinnet-dns.access.apiPassword.placeholder": "Please enter Xinnet.com agent API password"
+}

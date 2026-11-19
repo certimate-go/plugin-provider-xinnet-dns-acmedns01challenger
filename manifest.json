@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "xinnet",
+  "binary": "xinnet-dns.exe",
+  "capability": "dns",
+  "description": "ACME DNS-01 via Xinnet.com.",
+  "display_name_key": "plugin.xinnet-dns.name",
+  "icon": "icon.png",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "xinnet-dns",
+  "provider_aliases": [
+    "xinnet"
+  ],
+  "usages": [
+    "dns"
+  ],
+  "version": "0.1.0"
+}

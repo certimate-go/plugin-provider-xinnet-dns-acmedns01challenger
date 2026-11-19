@@ -1,0 +1,8 @@
+{
+  "plugin.xinnet-dns.name": "新网数码",
+  "plugin.xinnet-dns.description": "通过 新网数码 完成 ACME DNS-01 验证。",
+  "plugin.xinnet-dns.access.agentId.label": "新网数码代理商编号",
+  "plugin.xinnet-dns.access.agentId.placeholder": "请输入新网数码代理商编号",
+  "plugin.xinnet-dns.access.apiPassword.label": "新网数码代理商 API 密码",
+  "plugin.xinnet-dns.access.apiPassword.placeholder": "请输入新网数码代理商 API 密码"
+}

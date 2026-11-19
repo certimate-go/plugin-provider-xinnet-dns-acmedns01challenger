@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "xinnet",
+  "category": "access",
+  "schema": {
+    "columns": [
+      {
+        "name": "agentId",
+        "valueType": "text",
+        "labelKey": "plugin.xinnet-dns.access.agentId.label",
+        "placeholderKey": "plugin.xinnet-dns.access.agentId.placeholder",
+        "required": true
+      },
+      {
+        "name": "apiPassword",
+        "valueType": "secret",
+        "labelKey": "plugin.xinnet-dns.access.apiPassword.label",
+        "placeholderKey": "plugin.xinnet-dns.access.apiPassword.placeholder",
+        "secret": true,
+        "required": true
+      }
+    ]
+  }
+}
